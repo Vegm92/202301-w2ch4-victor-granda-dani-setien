@@ -1,0 +1,20 @@
+{
+  "name": "202301-w2ch4-victor-granda-dani-setien",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vegm92/202301-w2ch4-victor-granda-dani-setien.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vegm92/202301-w2ch4-victor-granda-dani-setien/issues"
+  },
+  "homepage": "https://github.com/Vegm92/202301-w2ch4-victor-granda-dani-setien#readme"
+}

@@ -1,17 +1,13 @@
 class LengthFinder {
-  length;
-  constructor(...elements) {
+  length = 0;
+  constructor(...arrayElements) {
     let index = 0;
-    for (const element of elements) {
-      this[index] = element;
+    for (const array of arrayElements) {
+      this[index] = array;
       index++;
-      this.length = index + 1;
+      this.length++;
     }
   }
 }
 
 export default LengthFinder;
-
-const any = new LengthFinder(1, 2, 3, 4);
-
-console.log(any);
